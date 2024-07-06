@@ -31,6 +31,8 @@ function LoadPage( url )
 		data.forEach(plant => {
 			$('#plantsOverviewPanel > .row').append(`<div class='col-3'><button class='btn btn-success'>${ plant.name }</button></div>`);
 		})
+		
+		return;
 	}
 	let plantData = data.find( e => e.slug == url )
 	//console.log("Opening",url, plantData)
