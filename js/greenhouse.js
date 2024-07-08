@@ -41,17 +41,17 @@ var openPage = '';
 function LoadPage( url )
 {
 	if(url == null || url == "") {
-		$('#plantsPanel').removeClass('d-none');
-		$('#plantsOverviewPanel').addClass('d-none');
+		$('#plantsPanel').addClass('d-none');
+		$('#plantsOverviewPanel').removeClass('d-none');
 		
 		data.forEach(plant => {
-			$('#plantsOverviewPanel > .row').append(`<div class='col-3'><button class='btn btn-success'>${ plant.name }</button></div>`);
+			$('#plantsOverviewPanel > .row').append(`<div class='col-2'><button class='btn btn-success w-100'>${ plant.name }</button></div>`);
 		})
 		
 		return;
 	}
+
 	let plantData = data.find( e => e.slug == url )
-	//console.log("Opening",url, plantData)
 	openPage = url;
 	
 	$("#plantTitle").text(plantData.name)
@@ -61,7 +61,7 @@ function LoadPage( url )
 	plantData.images.forEach(img => {
 		$("#plantImagesIndicators").append(`<button type="button" data-bs-target="#plantImages" data-bs-slide-to="${imageIndex}" ${ imageIndex == 0 ? 'class="active" aria-current="true"' : '' } aria-label="Billed ${(imageIndex + 1)}"></button>`);
 		$("#plantImagesPanels").append(`<div class="carousel-item ${ imageIndex == 0 ? 'active' : ''}">
-			  <img src="./${ img.link }" class="d-block w-100" alt="...">
+			  <img src="${ img.link }" class="d-block w-100" alt="...">
 				  ` + (img.desc != "" ? `<div class="carousel-caption" style="padding-bottom: 0px;bottom: 0px;"><p>${ img.desc }.</p></div>` : ``) + `
 			</div>`);
 			
@@ -93,6 +93,7 @@ function LoadPage( url )
 $(function()
 {
 	console.log("Loaded")
+	$("#plantsPanel").css('marginBottom', '100px');
 	data.forEach( plant => {
 		$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='/plants/${ plant.slug }'>${plant.name}</a></li>`)
 	})
