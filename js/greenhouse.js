@@ -34,6 +34,22 @@ var data = [
 				'text': '<h3>Er ananaskirsebær flerårige planter?</h3><p>Det er muligt at få glæde af Physalis over flere år, når du sørger for at opbevare planten frostfrit. Har du et drivhus, skal du ikke forholde dig til meget arbejde med pleje og pasning. Du kan lade planterne med de orange frugter stå i krukker i drivhuset året igennem.</p><h3>Hvad kan jeg bruge Physalis-frugter til?</h3><p>De søde frugter fra Physalis har en unik smag, som gør dem egnet til mange ting. De kan nydes som en forfriskende og velsmagende snack, eller du kan dekorere sommersalaten med de letgenkendelige, orange bær. Det er kun den gastronomiske fantasi, der sætter grænser for, hvad du kan bruge de små, runde frugter til. De kan grilles, eller du kan eksperimentere med at lave marmelade eller sirup af frugterne.</p><h3>Hvor skal jeg plante Physalis?</h3><p>Din plante med eksotisk fortid skal have godt med stabil varme. Spiringen kan finde sted hele året indenfor, og udplantning skal ske i et drivhus. Ananaskirsebær kræver en del plads, og derfor skal omgivelserne i drivhuset være gearet til planten. Bladene på Physalis er kilde til at få næring via solens varmende stråler, og derfor er det en god idé at binde planten op, så bladene får størst mulig varmepåvirkning.</p>'
 			}
 		]
+	},
+	{
+		'slug': 'alm-agurk-colosseum-f1',
+		'name': 'Alm. Agurk (Colosseum F1)',
+		'images': [
+			{
+				'link': 'https://www.barney.dk/wp-content/uploads/2021/02/colosseum.jpeg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Beskrivelse',
+				'text': '<p>Drivhusagurk colosseum F1. En fremragende sort, der producerer store og mange agurker pr. plante. Det er en F1 variant, så den sætter ikke hanblomster så man undgår bestøvning og dermed bitre agurker. Agurkerne bliver op til 20 cm lange.</p><p>Dette er fortrinsvis en drivhus agurk, den har brug for god varme for at få de bedste resultater.</p><p>Sås Marts – april ved en temperatur på mindst 22 °C. Agurk er en tropisk plante så plant den ikke ud før der er minimum 15 grader dag og nat- en gammel huskeregel siger at tomater plantes ud mors dag – agurker Fars dag.</p>'
+			}
+		]
 	}
 ];
 
@@ -61,7 +77,7 @@ function LoadPage( url )
 	plantData.images.forEach(img => {
 		$("#plantImagesIndicators").append(`<button type="button" data-bs-target="#plantImages" data-bs-slide-to="${imageIndex}" ${ imageIndex == 0 ? 'class="active" aria-current="true"' : '' } aria-label="Billed ${(imageIndex + 1)}"></button>`);
 		$("#plantImagesPanels").append(`<div class="carousel-item ${ imageIndex == 0 ? 'active' : ''}">
-			  <img src="${ img.link }" class="d-block w-100" alt="...">
+			  <img src="${ img.link }" class="d-block w-100" style="max-height:70vh;object-fit:contain;" alt="...">
 				  ` + (img.desc != "" ? `<div class="carousel-caption" style="padding-bottom: 0px;bottom: 0px;"><p>${ img.desc }.</p></div>` : ``) + `
 			</div>`);
 			
