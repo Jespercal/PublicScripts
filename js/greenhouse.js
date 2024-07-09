@@ -59,12 +59,16 @@ function LoadPage( url )
 	if(url == null || url == "") {
 		$('#plantsPanel').addClass('d-none');
 		$('#plantsOverviewPanel').removeClass('d-none');
-		
+
+		$("#plantsOverviewPanel > .row").html('')
 		data.forEach(plant => {
-			$('#plantsOverviewPanel > .row').append(`<div class='col-2'><button class='btn btn-success w-100'>${ plant.name }</button></div>`);
+			$('#plantsOverviewPanel > .row').append(`<div class='col-lg-4 col-12 mb-2'><a class="w-100" href="#" onclick='changePage("/plants/${ plant.slug }","${ plant.name }")'><button class='btn btn-success w-100'>${ plant.name }</button></a></div>`);
 		})
 		
 		return;
+	} else {
+		$('#plantsPanel').removeClass('d-none');
+		$('#plantsOverviewPanel').addClass('d-none');
 	}
 
 	let plantData = data.find( e => e.slug == url )
@@ -74,6 +78,8 @@ function LoadPage( url )
 	$("#plantSubtitle").text(plantData.subtitle)
 	
 	let imageIndex = 0;
+	$("#plantImagesIndicators").html('')
+	$("#plantImagesPanels").html('')
 	plantData.images.forEach(img => {
 		$("#plantImagesIndicators").append(`<button type="button" data-bs-target="#plantImages" data-bs-slide-to="${imageIndex}" ${ imageIndex == 0 ? 'class="active" aria-current="true"' : '' } aria-label="Billed ${(imageIndex + 1)}"></button>`);
 		$("#plantImagesPanels").append(`<div class="carousel-item ${ imageIndex == 0 ? 'active' : ''}">
@@ -89,6 +95,7 @@ function LoadPage( url )
 	}
 	
 	let textIndex = 0;
+	$("#plantTexts").html('')
 	plantData.sections.forEach( section => {
 		$("#plantTexts").append(`<div class="accordion-item">
 				<h2 class="accordion-header" id="panelsStayOpen-h${textIndex}">
@@ -106,11 +113,28 @@ function LoadPage( url )
 	})
 }
 
+function changePage( url, title = '' )
+{
+	window.history.replaceState([], title, url);
+	let newName = url.split('/plants/')[1];
+
+	LoadPage(newName);
+}
+
 $(function()
 {
-	console.log("Loaded")
 	$("#plantsPanel").css('marginBottom', '100px');
+	$("#navbarLinks").html('')
+
+	$(".navbar-brand").click(() => changePage('/plants/','Oversigt'))
+
+	$("#plantsPanel").prepend(`<div class="mb-2"><a href="#" onclick="changePage('/plants/','Oversigt')" ><button style="line-height: 1;padding-bottom: 9px;" class="btn btn-outline-success">&lt;</button></a></div>`)
+
+	$(".mx-md-5.px-md-5").addClass('px-lg-5').addClass('mx-lg-5').removeClass('mx-md-5').removeClass('px-md-5');
+
+	$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ '' == openPage ? 'active' : '' }' aria-current='page' href='#' onclick='changePage("/plants/","Oversigt");'>Oversigt</a></li>`)
 	data.forEach( plant => {
-		$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='/plants/${ plant.slug }'>${plant.name}</a></li>`)
+		//$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='/plants/${ plant.slug }'>${plant.name}</a></li>`)
+		$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='#' onclick='changePage("/plants/${ plant.slug }","${plant.name}");'>${plant.name}</a></li>`)
 	})
 })
