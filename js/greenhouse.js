@@ -40,14 +40,87 @@ var data = [
 		'name': 'Alm. Agurk (Colosseum F1)',
 		'images': [
 			{
-				'link': 'https://www.barney.dk/wp-content/uploads/2021/02/colosseum.jpeg',
+				'link': 'https://hektar.ro/content/images/Colosseum-F1.max.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://hektar.ro/content/images/Colosseum-F1.3.max.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://hektar.ro/content/images/colosseum-100-sem.max.jpg',
 				'desc': ''
 			}
 		],
 		'sections': [
 			{
-				'title': 'Beskrivelse',
-				'text': '<p>Drivhusagurk colosseum F1. En fremragende sort, der producerer store og mange agurker pr. plante. Det er en F1 variant, så den sætter ikke hanblomster så man undgår bestøvning og dermed bitre agurker. Agurkerne bliver op til 20 cm lange.</p><p>Dette er fortrinsvis en drivhus agurk, den har brug for god varme for at få de bedste resultater.</p><p>Sås Marts – april ved en temperatur på mindst 22 °C. Agurk er en tropisk plante så plant den ikke ud før der er minimum 15 grader dag og nat- en gammel huskeregel siger at tomater plantes ud mors dag – agurker Fars dag.</p>'
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Hybrid (F1)<div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Typisk mørkegrøn.</li><li>Ensartet i form og størrelse.</li><li>Glat hud med let ribbing.</ul></li><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 16-18 cm lange, men dette kan variere.<div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Sprød og fast med en frisk, mild smag. Ideel til skiver og frisk konsum.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; egnet til dyrkning i drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver konstant fugt, men undgå vandmætning.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og luftcirkulation, typisk 30-45 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Anbefales at bruge espalier for at holde frugterne væk fra jorden, hvilket forbedrer luftcirkulationen og reducerer sygdomsrisikoen.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': 'Colosseum F1 er avlet til resistens mod almindelige agurkesygdomme såsom meldug, dunet meldug og visse vira. Dette gør den til et mere robust valg for dyrkere, der står over for sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt udvoksede, men stadig faste og sprøde. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fremragende tekstur og smag. Kan bruges i salater, sandwich eller som snack.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Agurken Colosseum F1 er populær blandt både kommercielle dyrkere og haveentusiaster på grund af dens pålidelighed og højkvalitets frugt.'
+			}
+		]
+	},
+	{
+		'slug': 'lemon-drops',
+		'name': 'Lemon Drops',
+		'images': [
+			{
+				'link': 'https://www.gourmettomater.dk/wp-content/uploads/2018/02/LemonDrop/LemonDrop.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://tomatdatabasen.dk/Content/Images/471/lemondrop%20(3).jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Åben bestøvet</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Lys gul til gylden farve.</li><li>Små, runde til ovale frugter.</li><li>Glat og skinnende hud.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 2-3 cm i diameter.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Sprød og saftig med en sød, let syrlig smag. Ideel til frisk konsum.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; egnet til dyrkning i drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig vanding for at opretholde konstant fugt, men undgå vandmætning.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og luftcirkulation, typisk 50-60 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Anbefales at bruge støttepinde eller bure for at holde planterne oprejst og frugterne væk fra jorden.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Lemon Drops\' tomater er generelt modstandsdygtige over for mange almindelige tomatsygdomme, men det er vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt modne og har en lys gul farve. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fremragende tekstur og smag. Kan bruges i salater, som snacks eller til pynt i forskellige retter.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Tomaten \'Lemon Drops\' er populær blandt haveentusiaster på grund af dens unikke farve, søde smag og høje udbytte.'
 			}
 		]
 	}
