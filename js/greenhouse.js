@@ -84,6 +84,7 @@ var data = [
 	{
 		'slug': 'lemon-drops',
 		'name': 'Lemon Drops',
+		'subtitle': 'Tomat',
 		'images': [
 			{
 				'link': 'https://www.gourmettomater.dk/wp-content/uploads/2018/02/LemonDrop/LemonDrop.jpg',
@@ -121,6 +122,272 @@ var data = [
 			{
 				'title': 'Andet info',
 				'text': 'Tomaten \'Lemon Drops\' er populær blandt haveentusiaster på grund af dens unikke farve, søde smag og høje udbytte.'
+			}
+		]
+	},
+	{
+		'slug': 'supersweet-100-f1',
+		'name': 'Supersweet 100 F1',
+		'subtitle': 'Tomat',
+		'images': [
+			{
+				'link': 'https://tomatdatabasen.dk/Content/Images/1748/SuperSweet%20100.png',
+				'desc': ''
+			}, {
+				'link': 'https://tomatdatabasen.dk/Content/Images/1748/53.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://tomatdatabasen.dk/Content/Images/1748/Super%20Sweet%20100%20f1.png',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Hybrid (F1)</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Dybrød farve.</li><li>Små, runde frugter.</li><li>Glat og skinnende hud.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 2,5-3 cm i diameter.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Meget sød og saftig med en intens tomatsmag. Ideel til frisk konsum.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; egnet til dyrkning i drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig vanding for at opretholde konstant fugt, men undgå vandmætning.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og luftcirkulation, typisk 50-70 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Anbefales at bruge støttepinde eller bure for at holde planterne oprejst og frugterne væk fra jorden.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Supersweet 100 F1\' tomater er kendt for deres modstandsdygtighed over for mange almindelige tomatsygdomme, såsom fusarium visnesyge og verticillium visnesyge. Det er dog stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt modne og har en klar rød farve. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fremragende søde smag. Kan bruges i salater, som snacks eller i forskellige retter for at tilføje sødme og farve.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Tomaten \'Supersweet 100 F1\' er populær blandt både kommercielle dyrkere og haveentusiaster på grund af dens høje udbytte, søde smag og sygdomsresistens.'
+			}
+		]
+	},
+	{
+		'slug': 'gardener\'s-delight',
+		'name': 'Gardener\'s Delight',
+		'subtitle': 'Tomat',
+		'images': [
+			{
+				'link': 'https://www.thompson-morgan.com/product_images/100/optimised/TOM0277-A_h.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://www.suttons.co.uk/product_images/VETOM14277.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://froesnapperen.dk/cdn/shop/products/tomat-gardeners-delight.jpg?v=1578574803',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Åben bestøvet.</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Klar rød farve.</li><li>Små, runde frugter.</li><li>Glat og skinnende hud.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 2-3 cm i diameter.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Saftig og sød med en let syrlig undertone. Ideel til frisk konsum.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; egnet til dyrkning i drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig vanding for at opretholde konstant fugt, men undgå vandmætning.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og luftcirkulation, typisk 50-60 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Anbefales at bruge støttepinde eller tomatbure for at holde planterne oprejst og frugterne væk fra jorden.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Gardener\'s Delight\' tomater har en vis modstandsdygtighed over for almindelige tomatsygdomme, men god havehygiejne og afgrøderotation er stadig vigtige for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt modne og har en klar rød farve. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fremragende smag. Kan bruges i salater, som snacks eller i forskellige retter for at tilføje sødme og farve.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Tomaten \'Gardener\'s Delight\' er populær blandt haveentusiaster på grund af dens pålidelighed, høje udbytte og fremragende smag.'
+			}
+		]
+	},
+	{
+		'slug': 'cherrytomat-sungold',
+		'name': 'Cherrytomat (Sungold)',
+		'images': [
+			{
+				'link': 'https://www.impecta.dk/bilder/artiklar/zoom/9696_1.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://cdn.speedsize.com/bc1cf6c3-81c1-4118-8b64-8196e8eca8df/https://www.jespersplanteskole.dk/media/catalog/product/cache/ffe4d2124d6fa54b03fc785ef5ad7c0d/c/h/cherrytomat_sungold_.jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Hybrid (F1)</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Strålende orange farve.</li><li>Små, runde frugter.</li><li>Glat og skinnende hud.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 2-3 cm i diameter.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Ekstremt sød og saftig med en unik, tropisk smag. Meget velegnet til frisk konsum og er kendt for sin sukkerholdige sødme.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; meget velegnet til dyrkning i drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig og ensartet vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 50-60 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Anbefales at bruge støttepinde eller tomatbure for at holde planterne oprejst og frugterne væk fra jorden. Planterne kan blive meget høje og produktive.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Sungold\' tomater er kendt for deres modstandsdygtighed over for mange almindelige tomatsygdomme, såsom fusarium visnesyge og verticillium visnesyge. Det er stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt modne og har en strålende orange farve. Regelmæssig plukning fremmer fortsat produktion og sikrer, at frugterne er på deres sødeste.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fantastiske søde smag. Perfekt til salater, som snacks eller i forskellige retter for at tilføje sødme og farve. \'Sungold\' er også populær til at lave tomatkirsebær på tandstikkere til snacks eller som garniture.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Cherrytomaten \'Sungold\' er højt værdsat af både professionelle dyrkere og haveentusiaster for dens enestående smag, høje udbytte og sygdomsresistens. Den er kendt for at være en af de sødeste cherrytomater, der findes.'
+			}
+		]
+	},
+	{
+		'slug': 'blommetomat-corabell',
+		'name': 'Blommetomat (Corabell)',
+		'images': [
+			{
+				'link': 'https://lundagersgartneri.dk/wp-content/uploads/2022/04/Blommetomat-Corabell-scaled.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://hobbyhaven.b-cdn.net/media/d0/d5/12/1713865487/Tomat%20Blomme%20Corabell.jpg?width=3000',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Hybrid (F1)</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Dybrød farve.</li><li>Ovale eller plum-formede frugter.</li><li>Glat og skinnende hud.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 4-6 cm i længden.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Fast og saftig med en rig, sød smag. Ideel til både frisk konsum og madlavning.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; egnet til dyrkning i drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig og ensartet vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 50-60 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Anbefales at bruge støttepinde eller tomatbure for at holde planterne oprejst og frugterne væk fra jorden.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Corabell\' tomater er kendt for deres modstandsdygtighed over for mange almindelige tomatsygdomme, såsom fusarium visnesyge og verticillium visnesyge. Det er dog stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt modne og har en dyb rød farve. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum, men også meget velegnet til madlavning på grund af dens faste kød og rige smag. Ideel til salater, saucer, salsaer og til konservering.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Blommetomaten \'Corabell\' er populær blandt både kommercielle dyrkere og haveentusiaster på grund af dens høje udbytte, fremragende smag og alsidighed i køkkenet.'
+			}
+		]
+	},
+	{
+		'slug': 'agurk-euphya',
+		'name': 'Agurk (Euphya)',
+		'images': [
+			{
+				'link': 'https://www.barney.dk/wp-content/uploads/2022/04/euph.jpeg',
+				'desc': ''
+			}, {
+				'link': 'https://cdn.speedsize.com/bc1cf6c3-81c1-4118-8b64-8196e8eca8df/https://www.jespersplanteskole.dk/media/catalog/product/cache/80c77b81c3e0d8dd2639adaf4e51e1f2/e/u/euphya.jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Hybrid (F1)</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Mørkegrøn farve.</li><li>Slanke og lange frugter.</li><li>Glat hud med små knopper.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 20-25 cm lange.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Sprød og fast med en frisk, mild smag. Ideel til både frisk konsum og til syltning.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; meget velegnet til dyrkning i drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig og ensartet vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 30-45 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Anbefales at bruge espalier eller andre støtteanordninger for at holde frugterne væk fra jorden og forbedre luftcirkulationen.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Euphya\' agurker er kendt for deres modstandsdygtighed over for mange almindelige agurkesygdomme, såsom meldug og visse vira. Det er dog stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt udvoksede, men stadig faste og sprøde. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fremragende tekstur og smag. Også velegnet til syltning og i forskellige retter som salater og sandwich.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Agurken \'Euphya\' er populær blandt både kommercielle dyrkere og haveentusiaster på grund af dens høje udbytte, sygdomsresistens og alsidighed i køkkenet.'
+			}
+		]
+	},
+	{
+		'slug': '',
+		'name': '',
+		'images': [
+			{
+				'link': '',
+				'desc': ''
+			}, {
+				'link': '',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': ''
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': ''
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': ''
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': ''
+			},
+			{
+				'title': 'Høst',
+				'text': ''
+			},
+			{
+				'title': 'Anvendelse',
+				'text': ''
+			},
+			{
+				'title': 'Andet info',
+				'text': ''
 			}
 		]
 	}
@@ -196,15 +463,6 @@ function changePage( url, title = '' )
 
 $(function()
 {
-	$("#plantsPanel").css('marginBottom', '100px');
-	$("#navbarLinks").html('')
-
-	$(".navbar-brand").click(() => changePage('/plants/','Oversigt'))
-
-	$("#plantsPanel").prepend(`<div class="mb-2"><a href="#" onclick="changePage('/plants/','Oversigt')" ><button style="line-height: 1;padding-bottom: 9px;" class="btn btn-outline-success">&lt;</button></a></div>`)
-
-	$(".mx-md-5.px-md-5").addClass('px-lg-5').addClass('mx-lg-5').removeClass('mx-md-5').removeClass('px-md-5');
-
 	$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ '' == openPage ? 'active' : '' }' aria-current='page' href='#' onclick='changePage("/plants/","Oversigt");'>Oversigt</a></li>`)
 	data.forEach( plant => {
 		//$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='/plants/${ plant.slug }'>${plant.name}</a></li>`)
