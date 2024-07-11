@@ -402,7 +402,7 @@ function LoadPage( url )
 
 		$("#plantsOverviewPanel > .row").html('')
 		data.forEach(plant => {
-			$('#plantsOverviewPanel > .row').append(`<div class='col-lg-4 col-12 mb-2'><a class="w-100" href="#" onclick='changePage("/plants/${ plant.slug }","${ plant.name }")'><button class='btn btn-success w-100'>${ plant.name }</button></a></div>`);
+			$('#plantsOverviewPanel > .row').append(`<div class='col-lg-4 col-12 mb-2'><a class="w-100" href="#" onclick='changePage("/plants/${ plant.slug.replaceAll('\'','&apos;') }","${ plant.name.replaceAll('\'','&apos;') }")'><button class='btn btn-success w-100'>${ plant.name }</button></a></div>`);
 		})
 		
 		return;
@@ -466,6 +466,6 @@ $(function()
 	$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ '' == openPage ? 'active' : '' }' aria-current='page' href='#' onclick='changePage("/plants/","Oversigt");'>Oversigt</a></li>`)
 	data.forEach( plant => {
 		//$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='/plants/${ plant.slug }'>${plant.name}</a></li>`)
-		$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='#' onclick='changePage("/plants/${ plant.slug }","${plant.name}");'>${plant.name}</a></li>`)
+		$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='#' onclick='changePage("/plants/${ plant.slug.replaceAll('\'','&apos;') }","${plant.name.replaceAll('\'','&apos;')}");'>${plant.name.replaceAll('\'','&apos;')}</a></li>`)
 	})
 })
