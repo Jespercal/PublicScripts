@@ -2,6 +2,7 @@ var data = [
 	{
 		'slug': 'ananas-kirsebaer',
 		'name': 'Ananas kirsebær',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://froesnapperen.dk/cdn/shop/files/Ananaskirsebaer_1200x1200_67166cae-eb60-4ef2-b16b-32ed3fbac9d5.jpg?v=1705672609&width=1080',
@@ -38,6 +39,7 @@ var data = [
 	{
 		'slug': 'alm-agurk-colosseum-f1',
 		'name': 'Alm. Agurk (Colosseum F1)',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://hektar.ro/content/images/Colosseum-F1.max.jpg',
@@ -85,6 +87,7 @@ var data = [
 		'slug': 'lemon-drops',
 		'name': 'Lemon Drops',
 		'subtitle': 'Tomat',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://www.gourmettomater.dk/wp-content/uploads/2018/02/LemonDrop/LemonDrop.jpg',
@@ -129,6 +132,7 @@ var data = [
 		'slug': 'supersweet-100-f1',
 		'name': 'Supersweet 100 F1',
 		'subtitle': 'Tomat',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://tomatdatabasen.dk/Content/Images/1748/SuperSweet%20100.png',
@@ -176,6 +180,7 @@ var data = [
 		'slug': 'gardener\'s-delight',
 		'name': 'Gardener\'s Delight',
 		'subtitle': 'Tomat',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://www.thompson-morgan.com/product_images/100/optimised/TOM0277-A_h.jpg',
@@ -222,6 +227,7 @@ var data = [
 	{
 		'slug': 'cherrytomat-sungold',
 		'name': 'Cherrytomat (Sungold)',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://www.impecta.dk/bilder/artiklar/zoom/9696_1.jpg',
@@ -265,6 +271,7 @@ var data = [
 	{
 		'slug': 'blommetomat-corabell',
 		'name': 'Blommetomat (Corabell)',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://lundagersgartneri.dk/wp-content/uploads/2022/04/Blommetomat-Corabell-scaled.jpg',
@@ -308,6 +315,7 @@ var data = [
 	{
 		'slug': 'agurk-euphya',
 		'name': 'Agurk (Euphya)',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://www.barney.dk/wp-content/uploads/2022/04/euph.jpeg',
@@ -351,6 +359,7 @@ var data = [
 	{
 		'slug': 'skoleagurk-passandra',
 		'name': 'Skoleagurk (Passandra)',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://media.plantorama.dk/cdn/2SPbBv/oekologisk-skole-passandra-cucumis-sativus-oe115-potte--kologisk-skole-agurk-passandra-cucumis-sativus-11-5-cm-potte-agurk-frilandsagurk-krebs-xinet-02-miljo.webp',
@@ -394,6 +403,7 @@ var data = [
 	{
 		'slug': 'snackpeber-rubienne',
 		'name': 'Snackpeber (Rubienne)',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://lh5.googleusercontent.com/proxy/_Bxt10I2f_musc_vlPMUffy0rfNADWB8s3_X4IUG1LTE6IBSKca9uiCDJkKrFT380XmVffke4m0PScJZKumCPNgcBI93kG9KZOqXBFONnBFC43biLJQbJSuRF_TSEtIItp1MtSdCIdeEIuwLfx8yQK6PVtXoslYD0UnACkb67A',
@@ -438,6 +448,7 @@ var data = [
 		'slug': 'busk-chiquita-pot',
 		'name': 'Busk Chiquita Pot',
 		'subtitle':'Busktomat',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://froesnapperen.dk/cdn/shop/products/Chiquitapottomat.jpg?v=1631558799',
@@ -481,6 +492,7 @@ var data = [
 	{
 		'slug': 'chilli-penis-chilli',
 		'name': 'Chilli (Penis Chilli)',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://webshopresources.silvan.dk/resources/Images/9713595_Large.jpg?id=1701335760000',
@@ -524,6 +536,7 @@ var data = [
 	{
 		'slug': 'aert-wunder-von-kelvedon',
 		'name': 'Ært (Wunder von Kelvedon)',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://okotopen.dk/wp-content/uploads/2021/11/Wunder.jpg',
@@ -568,6 +581,7 @@ var data = [
 		'slug': 'oregano',
 		'name': 'Oregano',
 		'subtitle': 'Krydderi',
+		'type': 2,
 		'images': [
 			{
 				'link': 'https://hverdagshaven.dk/wp-content/uploads/2019/05/IMG_4022.jpg',
@@ -609,6 +623,7 @@ var data = [
 		'slug': 'rosmarin',
 		'name': 'Rosmarin',
 		'subtitle': 'Krydderi',
+		'type': 2,
 		'images': [
 			{
 				'link': 'https://cdn.haveglad.dk/media/91/3b/0d/1707387439/f7444a1f2b418cf728739373ae3c7913.webp',
@@ -652,6 +667,7 @@ var data = [
 	{
 		'slug': 'persille',
 		'name': 'Kruspersille',
+		'type': 2,
 		'images': [
 			{
 				'link': 'https://solhatt.no/wp-content/uploads/2012/10/kruspersille.jpg',
@@ -696,6 +712,7 @@ var data = [
 	{
 		'slug': 'purloeg',
 		'name': 'Purløg',
+		'type': 2,
 		'images': [
 			{
 				'link': 'https://oekologihaven.dk/wp-content/uploads/2020/02/Purlog.jpg',
@@ -739,6 +756,7 @@ var data = [
 	{
 		'slug': 'chilli-cayenne-long-slim',
 		'name': 'Chilli Cayenne long slim',
+		'type': 1,
 		'images': [
 			{
 				'link': 'https://www.impecta.dk/bilder/artiklar/zoom/30220_6.jpg?m=1712827878',
@@ -782,6 +800,7 @@ var data = [
 	{
 		'slug': 'spinat-matador',
 		'name': 'Spinat (Matador)',
+		'type': 2,
 		'images': [
 			{
 				'link': 'https://froesnapperen.dk/cdn/shop/products/spinat-matador.jpg?v=1578332618',
@@ -823,8 +842,9 @@ var data = [
 		]
 	},
 	{
-		'slug': 'x',
+		'slug': '',
 		'name': '',
+		'type': 1,
 		'images': [
 			{
 				'link': '',
@@ -867,6 +887,36 @@ var data = [
 	}
 ];
 
+var typeColors = {
+	1: [
+		'#bd1e1e',
+	],
+	2: [
+		'#23911f'
+	],
+	3: [
+		'#a13ead'
+	],
+};
+
+var colorAdditive = [
+	[
+		-4,
+		-20,
+		-13
+	],
+	[
+		-5,
+		-27,
+		-17
+	],
+	[
+		-6,
+		-34,
+		-21
+	]
+];
+
 var openPage = '';
 function LoadPage( url )
 {
@@ -875,8 +925,16 @@ function LoadPage( url )
 		$('#plantsOverviewPanel').removeClass('d-none');
 
 		$("#plantsOverviewPanel > .row").html('')
-		data.forEach(plant => {
-			$('#plantsOverviewPanel > .row').append(`<div class='col-lg-4 col-12 mb-2'><a class="w-100" href="#" onclick='changePage("/plants/${ plant.slug.replaceAll('\'','&apos;') }","${ plant.name.replaceAll('\'','&apos;') }")'><button class='btn btn-success w-100'>${ plant.name }</button></a></div>`);
+		let allPlants = data;
+		allPlants.sort(function(a,b) {
+			if(a.name > b.name) return 1;
+			if(a.name < b.name) return -1;
+			return 0;
+		})
+		allPlants.forEach(plant => {
+			if(plant.name != "") {
+				$('#plantsOverviewPanel > .row').append(`<div class='col-lg-4 col-12 mb-2'><a class="w-100" href="#" onclick='changePage("/plants/${ plant.slug.replaceAll('\'','&apos;') }","${ plant.name.replaceAll('\'','&apos;') }")'><button class='btn btn-type-${ plant.type } w-100'>${ plant.name }</button></a></div>`);
+			}
 		})
 		
 		return;
@@ -889,7 +947,9 @@ function LoadPage( url )
 	openPage = url;
 	
 	$("#plantTitle").text(plantData.name)
-	$("#plantSubtitle").text(plantData.subtitle)
+	$("#plantTitle").removeClass('title-type-1').removeClass('title-type-2').removeClass('title-type-3').removeClass('title-type-4');
+	$("#plantTitle").addClass('title-type-' + plantData.type);
+	$("#plantSubtitle").text(plantData.subtitle ?? '')
 	
 	let imageIndex = 0;
 	$("#plantImagesIndicators").html('')
@@ -935,6 +995,43 @@ function changePage( url, title = '' )
 	LoadPage(newName);
 }
 
+const intToHex = (c) => {
+	const hex = c.toString(16);
+	return hex.length == 1 ? "0" + hex : hex;
+}
+
+const hexToInt = (c) => {
+	return Number("0x" + c);
+}
+
+const rgbToHex = (r, g, b) => {
+	return "#" + intToHex(r) + intToHex(g) + intToHex(b);
+}
+
+function hexToRgb(hex) {
+	// Expand shorthand form (e.g. "03F") to full form (e.g. "0033FF")
+	var shorthandRegex = /^#?([a-f\d])([a-f\d])([a-f\d])$/i;
+	hex = hex.replace(shorthandRegex, function(m, r, g, b) {
+		return r + r + g + g + b + b;
+	});
+
+	var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+	return result ? {
+		r: parseInt(result[1], 16),
+		g: parseInt(result[2], 16),
+		b: parseInt(result[3], 16)
+	} : null;
+}
+
+Object.entries(typeColors).forEach( ([id, color]) => {
+	color[1] = hexToRgb(color[0]);
+	color[1] = rgbToHex(color[1].r + colorAdditive[0][0],color[1].g + colorAdditive[0][1],color[1].b + colorAdditive[0][2])
+	color[2] = hexToRgb(color[0]);
+	color[2] = rgbToHex(color[2].r + colorAdditive[1][0],color[2].g + colorAdditive[1][1],color[2].b + colorAdditive[1][2])
+	color[3] = hexToRgb(color[0]);
+	color[3] = rgbToHex(color[3].r + colorAdditive[2][0],color[3].g + colorAdditive[2][1],color[3].b + colorAdditive[2][2])
+})
+
 $(function()
 {
 	$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ '' == openPage ? 'active' : '' }' aria-current='page' href='#' onclick='changePage("/plants/","Oversigt");'>Oversigt</a></li>`)
@@ -942,4 +1039,34 @@ $(function()
 		//$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='/plants/${ plant.slug }'>${plant.name}</a></li>`)
 		$("#navbarLinks").append(`<li class='nav-item'><a class='nav-link ${ plant.slug == openPage ? 'active' : '' }' aria-current='page' href='#' onclick='changePage("/plants/${ plant.slug.replaceAll('\'','&apos;') }","${plant.name.replaceAll('\'','&apos;')}");'>${plant.name.replaceAll('\'','&apos;')}</a></li>`)
 	})
+
+	$(`[uid="btnColors"]`).remove();
+	let colorTemplate = (i,c) => {
+		return `.btn-type-${i} {
+		    --bs-btn-color: #fff;
+			--bs-btn-bg: ${c[0]};
+			--bs-btn-border-color: ${c[0]};
+			--bs-btn-hover-color: #fff;
+			--bs-btn-hover-bg: ${ c[1] };
+			--bs-btn-hover-border-color: ${ c[2] };
+			--bs-btn-focus-shadow-rgb: 60, 153, 110;
+			--bs-btn-active-color: #fff;
+			--bs-btn-active-bg: ${ c[2] };
+			--bs-btn-active-border-color: ${ c[3] };
+			--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+			--bs-btn-disabled-color: #fff;
+			--bs-btn-disabled-bg: ${c[0]};
+			--bs-btn-disabled-border-color: ${c[0]};
+		}
+		.title-type-${ i } {
+			color: ${ c[0] }!important;
+			text-decoration-color: ${ c[0] }!important;
+			text-decoration: underline!important;
+		}`;
+	}
+	$("head").append(`<style uid="btnColors" type="text/css">
+		${ colorTemplate(1,typeColors[1]) }
+		${ colorTemplate(2,typeColors[2]) }
+		${ colorTemplate(3,typeColors[3]) }
+	</style>`);
 })
