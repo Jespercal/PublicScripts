@@ -349,6 +349,480 @@ var data = [
 		]
 	},
 	{
+		'slug': 'skoleagurk-passandra',
+		'name': 'Skoleagurk (Passandra)',
+		'images': [
+			{
+				'link': 'https://media.plantorama.dk/cdn/2SPbBv/oekologisk-skole-passandra-cucumis-sativus-oe115-potte--kologisk-skole-agurk-passandra-cucumis-sativus-11-5-cm-potte-agurk-frilandsagurk-krebs-xinet-02-miljo.webp',
+				'desc': ''
+			}, {
+				'link': 'https://www.plantorama.dk/-/media/images/guide/have/haveplanter/spiselige-baer-og-planter/drivhuset/udplantning-og-pasning-af-agurk/agurkeplanter-2.jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Hybrid (F1)</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Mørkegrøn farve.</li><li>Slanke, ensartede og glatte frugter.</li><li>Hud med små knopper.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 15-20 cm lange.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Sprød og fast med en sød, mild smag. Ideel til frisk konsum.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; meget velegnet til dyrkning i drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig og ensartet vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 30-45 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Anbefales at bruge espalier eller andre støtteanordninger for at holde frugterne væk fra jorden og forbedre luftcirkulationen.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Passandra\' agurker er kendt for deres modstandsdygtighed over for mange almindelige agurkesygdomme, såsom meldug og visse vira. Det er dog stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt udvoksede, men stadig faste og sprøde. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fremragende tekstur og smag. Perfekt til madpakker, salater og som snack.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Skoleagurken \'Passandra\' er populær blandt både kommercielle dyrkere og haveentusiaster på grund af dens høje udbytte, sygdomsresistens og gode smag. Den er specielt velegnet til børn på grund af dens sødme og praktiske størrelse.'
+			}
+		]
+	},
+	{
+		'slug': 'snackpeber-rubienne',
+		'name': 'Snackpeber (Rubienne)',
+		'images': [
+			{
+				'link': 'https://lh5.googleusercontent.com/proxy/_Bxt10I2f_musc_vlPMUffy0rfNADWB8s3_X4IUG1LTE6IBSKca9uiCDJkKrFT380XmVffke4m0PScJZKumCPNgcBI93kG9KZOqXBFONnBFC43biLJQbJSuRF_TSEtIItp1MtSdCIdeEIuwLfx8yQK6PVtXoslYD0UnACkb67A',
+				'desc': ''
+			}, {
+				'link': 'https://www.krydderhaven.dk/wp-content/uploads/2022/03/Rubienne-Snackpeber.jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Hybrid (F1)</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Strålende rød farve ved modenhed.</li><li>Små til mellemstore aflange frugter.</li><li>Glat og skinnende hud.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 6-8 cm lange.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Sprød og saftig med en sød smag. Ideel til frisk konsum.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; meget velegnet til dyrkning i drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig og ensartet vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 30-40 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Planterne kan have gavn af støttepinde eller bure for at holde dem oprejst, især når de bærer mange frugter.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Rubienne\' peberfrugter er kendt for deres modstandsdygtighed over for mange almindelige pebersygdomme, såsom virus- og svampeinfektioner. Det er dog stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt modne og har en strålende rød farve. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fremragende tekstur og søde smag. Perfekt som snack, i salater eller som del af en tapas-anretning.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Snackpeberen \'Rubienne\' er populær blandt både kommercielle dyrkere og haveentusiaster på grund af dens søde smag, høje udbytte og sygdomsresistens. Den er specielt velegnet som en sund snack for både børn og voksne.'
+			}
+		]
+	},
+	{
+		'slug': 'busk-chiquita-pot',
+		'name': 'Busk Chiquita Pot',
+		'subtitle':'Busktomat'
+		'images': [
+			{
+				'link': 'https://froesnapperen.dk/cdn/shop/products/Chiquitapottomat.jpg?v=1631558799',
+				'desc': ''
+			}, {
+				'link': 'https://froesnapperen.dk/cdn/shop/products/tomat-chiquita-pot-1.jpg?v=1631558799',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Busktomat</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Klar rød farve.</li><li>Små til mellemstore, runde frugter.</li><li>Glat og skinnende hud.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 2-3 cm i diameter.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Fast og saftig med en sød og let syrlig smag. Ideel til frisk konsum.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; velegnet til dyrkning i potter, drivhuse eller på åbne marker i tempererede klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 6,8.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig og ensartet vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 30-40 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Busktomater kræver normalt ikke støtte, men kan have gavn af en let støtte i form af små pinde eller ringe for at holde frugterne oprejst.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Chiquita Pot\' tomater er kendt for deres modstandsdygtighed over for mange almindelige tomatsygdomme. Det er dog stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt modne og har en klar rød farve. Regelmæssig plukning fremmer fortsat produktion.\n'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fremragende smag og tekstur. Perfekt til salater, som snacks eller som del af forskellige retter.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Busktomaten \'Chiquita Pot\' er populær blandt haveentusiaster på grund af dens kompakte vækst, høje udbytte og fremragende smag. Den er specielt velegnet til dyrkning i potter og mindre haver, hvilket gør den ideel til byhaver og altaner.'
+			}
+		]
+	},
+	{
+		'slug': 'chilli-penis-chilli',
+		'name': 'Chilli (Penis Chilli)',
+		'images': [
+			{
+				'link': 'https://webshopresources.silvan.dk/resources/Images/9713595_Large.jpg?id=1701335760000',
+				'desc': ''
+			}, {
+				'link': 'https://www.organicseeds4you.com/6080-large_default/penis-chili-100-seeds.jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Capsicum annuum</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Unik form, der minder om et mandligt kønsorgan.</li><li>Rød farve ved fuld modenhed.</li><li>Glat hud med en let krumning.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugter er normalt 5-7 cm lange.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Moderat til stærk varme med en frugtagtig undertone. Egnet til både frisk konsum og til madlavning.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; meget velegnet til dyrkning i drivhuse eller på åbne marker i varme klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 7,0.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig og ensartet vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 30-50 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Planterne kan have gavn af støttepinde for at holde dem oprejst, især når de bærer mange frugter.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Penis Chilli\' er kendt for sin modstandsdygtighed over for mange almindelige sygdomme, der påvirker chilipebre, såsom bladlus og svampeinfektioner. Det er dog stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når frugterne er fuldt modne og har en dyb rød farve. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Kan bruges frisk eller tørret i forskellige retter for at tilføje varme og smag. Perfekt til salsaer, saucer, marinader og som dekorativt element i krydderiblandinger.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Chilien \'Penis Chilli\' er populær blandt chili-entusiaster på grund af dens unikke form, stærke smag og moderate til stærke varme. Dens usædvanlige udseende gør den også til en sjov samtalestarter i køkkenhaver og på middagsbordet.'
+			}
+		]
+	},
+	{
+		'slug': 'aert-wunder-von-kelvedon',
+		'name': 'Ært (Wunder von Kelvedon)',
+		'images': [
+			{
+				'link': 'https://okotopen.dk/wp-content/uploads/2021/11/Wunder.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://frospiren.dk/wp-content/uploads/2021/02/aert-1.jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Pisum sativum (Ærter)</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Mørkegrønne bælge.</li><li>Hver bælg indeholder typisk 7-8 mellemstore ærter.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Bælgene er normalt 8-10 cm lange.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Sprød og saftig med en sød smag. Ideel til både frisk konsum og madlavning.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker kølige til tempererede klimaer; velegnet til dyrkning tidligt om foråret eller efteråret.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 7,5.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 5-8 cm fra hinanden i rækker med 40-50 cm mellemrum.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Planterne kan have gavn af støtte i form af net eller små pinde, da de kan vokse til en højde af 60-75 cm.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Tilfør kompost eller balancerede gødninger for at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Wunder von Kelvedon\' er kendt for sin modstandsdygtighed over for mange almindelige ærtesygdomme, såsom meldug og visse virussygdomme. Det er dog stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst når bælgene er fuldt udviklede og har en dyb grøn farve, men inden ærterne bliver for store og stivelsesholdige. Regelmæssig plukning fremmer fortsat produktion.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Primært brugt til frisk konsum på grund af dens fremragende smag og tekstur. Kan også bruges i madlavning, f.eks. i salater, supper og som tilbehør til forskellige retter.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Ærten \'Wunder von Kelvedon\' er populær blandt både kommercielle dyrkere og haveentusiaster på grund af dens høje udbytte, søde smag og sygdomsresistens. Den er velegnet til både frisk konsum og madlavning, hvilket gør den til et alsidigt valg i køkkenhaven.'
+			}
+		]
+	},
+	{
+		'slug': 'oregano',
+		'name': 'Oregano',
+		'subtitle': 'Krydderi',
+		'images': [
+			{
+				'link': 'https://hverdagshaven.dk/wp-content/uploads/2019/05/IMG_4022.jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Staude</div><div class="mb-2"><span style="font-weight:bold;">Planteudseende:</span><ul><li>Grågrønne, ovale blade.</li><li>Små, hvide til lyserøde blomster, der blomstrer om sommeren.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Planter bliver typisk 20-50 cm høje.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Aromatiske blade med en skarp, let bitter smag og en kraftig duft. Ideel til madlavning.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme, solrige steder; meget velegnet til dyrkning i tempererede til varme klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, let alkalisk jord med en pH mellem 6,0 og 8,0.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver minimal vanding. Oregano trives bedst i tørre til moderate fugtforhold.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 30-40 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Normalt ikke nødvendigt, da oregano er en lav, busket plante.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Kræver minimal gødning. Overgødning kan reducere den aromatiske kvalitet af bladene.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': 'Oregano er generelt modstandsdygtig over for de fleste almindelige plantesygdomme og skadedyr. God havehygiejne og passende afstand mellem planter hjælper med at forhindre eventuelle problemer.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst bladene regelmæssigt, helst før planten blomstrer for at få den bedste smag. Klip stænglerne ned til lige over et bladpar for at fremme ny vækst.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Oregano bruges bredt i madlavning, især i middelhavsretter som pizza, pasta og kødretter. Kan bruges frisk eller tørret. Bladene bevarer deres smag godt, når de tørres.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Oregano er en populær krydderurt blandt både kommercielle dyrkere og haveentusiaster på grund af dens kraftige smag, nemme dyrkning og modstandsdygtighed over for sygdomme. Den er alsidig i køkkenet og et must-have i mange krydderurtehaver.'
+			}
+		]
+	},
+	{
+		'slug': 'rosmarin',
+		'name': 'Rosmarin',
+		'subtitle': 'Krydderi',
+		'images': [
+			{
+				'link': 'https://cdn.haveglad.dk/media/91/3b/0d/1707387439/f7444a1f2b418cf728739373ae3c7913.webp',
+				'desc': ''
+			}, {
+				'link': 'https://shop91295.sfstatic.io/upload_dir/shop/_thumbs/Rosmarinus-officinalis_Oe38.w790.h790.backdrop.jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Staude (Rosmarinus officinalis)</div><div class="mb-2"><span style="font-weight:bold;">Planteudseende:</span><ul><li>Smalle, nåleformede blade med en mørkegrøn overside og sølvgrå underside.</li><li>Små, blå til lyseblå blomster, der blomstrer i foråret og sommeren.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Planter bliver typisk 50-150 cm høje, afhængig af sorten og vækstbetingelserne.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Aromatiske, harpiksholdige blade med en skarp, lidt bitter smag og en kraftig duft. Ideel til madlavning.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme, solrige steder; meget velegnet til dyrkning i tempererede til varme klimaer. Tåler tørke.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, let sandet eller gruset jord med en pH mellem 6,0 og 7,5.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver minimal vanding. Rosmarin trives bedst i tørre til moderate fugtforhold og tåler tørke godt.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 50-60 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Normalt ikke nødvendigt, men større buske kan have gavn af let beskæring for at bevare form og sundhed.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Kræver minimal gødning. Overgødning kan reducere den aromatiske kvalitet af bladene.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': 'Rosmarin er generelt modstandsdygtig over for de fleste almindelige plantesygdomme og skadedyr. God havehygiejne og passende afstand mellem planter hjælper med at forhindre eventuelle problemer.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst bladene regelmæssigt. Skær stilkene ned til lige over et bladpar for at fremme ny vækst. Bladene kan høstes året rundt, men smagen er bedst før blomstring.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Rosmarin bruges bredt i madlavning, især i middelhavsretter som lam, kylling, fisk og kartoffelretter. Kan bruges frisk eller tørret. Bladene bevarer deres smag godt, når de tørres, og kan også bruges til at fremstille te og aromatiske olier.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Rosmarin er en populær krydderurt blandt både kommercielle dyrkere og haveentusiaster på grund af dens kraftige smag, nemme dyrkning og modstandsdygtighed over for sygdomme. Den er alsidig i køkkenet og et must-have i mange krydderurtehaver.'
+			}
+		]
+	},
+	{
+		'slug': 'persille',
+		'name': 'Kruspersille',
+		'images': [
+			{
+				'link': 'https://solhatt.no/wp-content/uploads/2012/10/kruspersille.jpg',
+				'desc': ''
+			},
+			{
+				'link': 'https://froesnapperen.dk/cdn/shop/products/persille.jpg?v=1619094054',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Toårig urt (Petroselinum crispum var. crispum)</div><div class="mb-2"><span style="font-weight:bold;">Planteudseende:</span><ul><li>Krusede, tætte blade med en lysegrøn til mørkegrøn farve.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Planter bliver typisk 20-30 cm høje.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Friske, sprøde blade med en mild, let bitter smag og en frisk duft. Ideel til madlavning og som garniture.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker tempererede klimaer med moderate temperaturer. Kan dyrkes både indendørs og udendørs.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 7,0.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig vanding for at opretholde konstant fugt, men undgå vandmættet jord.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 20-30 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Normalt ikke nødvendigt, da kruspersille er en lavtvoksende plante.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med kompost eller balancerede gødninger hjælper med at fremme kraftig vækst.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': 'Kruspersille er generelt modstandsdygtig over for de fleste almindelige plantesygdomme og skadedyr. God havehygiejne og passende afstand mellem planter hjælper med at forhindre eventuelle problemer.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst bladene regelmæssigt ved at skære stænglerne ned til lige over jorden. Dette fremmer ny vækst og holder planten produktiv. Kruspersille kan høstes året rundt.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Kruspersille bruges bredt i madlavning som krydderurt og garniture. Den kan bruges frisk eller tørret. Ideel til salater, supper, saucer, marinader og som pynt på forskellige retter.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Kruspersille er en populær krydderurt blandt både kommercielle dyrkere og haveentusiaster på grund af dens milde smag, nemme dyrkning og alsidighed i køkkenet. Den er en essentiel ingrediens i mange retter og en uundværlig del af enhver krydderurtehave.'
+			}
+		]
+	},
+	{
+		'slug': 'purloeg',
+		'name': 'Purløg',
+		'images': [
+			{
+				'link': 'https://oekologihaven.dk/wp-content/uploads/2020/02/Purlog.jpg',
+				'desc': ''
+			}, {
+				'link': 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Allium_schoenoprasum%2801%29.jpg/300px-Allium_schoenoprasum%2801%29.jpg',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Staude (Allium schoenoprasum)</div><div class="mb-2"><span style="font-weight:bold;">Planteudseende:</span><ul><li>Tynde, hule, mørkegrønne stængler.</li><li>Runde, lilla blomsterhoveder, der blomstrer i foråret og sommeren.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Planter bliver typisk 20-30 cm høje.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Bladene har en mild løgsmag, der minder om forårsløg. Ideel til madlavning og som garniture.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker tempererede klimaer og kan tåle en vis grad af kulde. Velegnet til både indendørs og udendørs dyrkning.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 7,0.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 15-20 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Normalt ikke nødvendigt, da purløg er lavtvoksende planter.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med kompost eller balancerede gødninger hjælper med at fremme kraftig vækst.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': 'Purløg er generelt modstandsdygtige over for de fleste almindelige plantesygdomme og skadedyr. God havehygiejne og passende afstand mellem planter hjælper med at forhindre eventuelle problemer.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst bladene regelmæssigt ved at klippe dem ned til bunden af planten. Dette fremmer ny vækst og holder planten produktiv. Purløg kan høstes året rundt.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Purløg bruges bredt i madlavning som krydderurt. Den kan bruges frisk og tilføjes til salater, omeletter, supper, saucer og kartoffelretter. Blomsterne kan også spises og bruges som pynt.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Purløg er en populær krydderurt blandt både kommercielle dyrkere og haveentusiaster på grund af dens milde smag, nemme dyrkning og alsidighed i køkkenet. Den er en essentiel ingrediens i mange retter og en uundværlig del af enhver krydderurtehave.'
+			}
+		]
+	},
+	{
+		'slug': 'chilli-cayenne-long-slim',
+		'name': 'Chilli Cayenne long slim',
+		'images': [
+			{
+				'link': 'https://www.impecta.dk/bilder/artiklar/zoom/30220_6.jpg?m=1712827878',
+				'desc': ''
+			}, {
+				'link': 'https://froesnapperen.dk/cdn/shop/products/longslimcayenne.jpg?v=1631735498',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Capsicum annuum</div><div class="mb-2"><span style="font-weight:bold;">Frugtens Udseende:</span><ul><li>Slanke, cylindriske frugter.</li><li>Rød farve ved fuld modenhed.</li><li>Glat hud og spids ende.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Frugterne kan blive op til 15-20 cm lange og 1-2 cm bredde.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Middel til stærk varme med en frugtagtig smag. Ideel til tørring, pulver eller frisk konsum.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker varme temperaturer; velegnet til dyrkning i drivhuse eller på åbne marker i varme klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænende, frugtbar jord med en pH mellem 6,0 og 7,0.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig vanding for at opretholde konstant fugt uden at blive vandmættet.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal placeres med tilstrækkelig afstand for at tillade vækst og god luftcirkulation, typisk 30-50 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Planterne kan have gavn af støtte i form af små pinde eller bure for at holde de lange frugter oprejst.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Regelmæssig gødning med balancerede gødninger hjælper med at fremme kraftig vækst og frugtsætning.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': '\'Cayenne Long Slim\' er generelt modstandsdygtig over for mange almindelige sygdomme, der påvirker chilipebre, såsom bladlus og svampeinfektioner. Det er dog stadig vigtigt at praktisere god havehygiejne og rotere afgrøder for at minimere sygdomspres.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst frugterne, når de er fuldt modne og har en intens rød farve. Regelmæssig plukning fremmer fortsat produktion af nye frugter.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': '\'Cayenne Long Slim\' er ideel til brug i madlavning, tørring til chilipulver eller til at lave krydrede saucer og marinader. Kan også bruges frisk i retter, der kræver lidt ekstra varme.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Chilien \'Cayenne Long Slim\' er populær blandt chili-entusiaster på grund af dens slanke form, stærke varme og alsidige anvendelse i køkkenet. Den er velegnet til både frisk konsum og til forarbejdning til forskellige krydderiblandinger og saucer.'
+			}
+		]
+	},
+	{
+		'slug': 'spinat-matador',
+		'name': 'Spinat (Matador)',
+		'images': [
+			{
+				'link': 'https://froesnapperen.dk/cdn/shop/products/spinat-matador.jpg?v=1578332618',
+				'desc': ''
+			}, {
+				'link': 'https://www.impecta.dk/bilder/artiklar/9620.jpg?m=1712827645',
+				'desc': ''
+			}
+		],
+		'sections': [
+			{
+				'title': 'Karakteristisk',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Type:</span> Årlig bladgrøntsag (Spinacia oleracea)</div><div class="mb-2"><span style="font-weight:bold;">Blade:</span><ul><li>Mørkegrønne, let rynkede blade.</li><li>Spidse eller afrundede blade afhængigt af vækststadiet.</li></ul></div><div class="mb-2"><span style="font-weight:bold;">Størrelse:</span> Planter bliver typisk 20-30 cm høje.</div><div class="mb-2"><span style="font-weight:bold;">Tekstur og Smag:</span> Sprøde, ømme blade med en mild og behagelig smag. Ideel til salater og let tilberedning.</div>'
+			},
+			{
+				'title': 'Vækstbetingelser',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Klima:</span> Foretrækker kølige til milde temperaturer. Bedst dyrkes i forår og efterår i varmere klimaer.</div><div class="mb-2"><span style="font-weight:bold;">Jord:</span> Godt drænet, frugtbar jord med en pH mellem 6,0 og 7,0.</div><div class="mb-2"><span style="font-weight:bold;">Vanding:</span> Kræver regelmæssig vanding for at holde jorden jævnt fugtig.</div>'
+			},
+			{
+				'title': 'Dyrkningstips',
+				'text': '<div class="mb-2"><span style="font-weight:bold;">Planteafstand:</span> Planter skal have tilstrækkelig afstand til at vokse, typisk 15-25 cm fra hinanden.</div><div class="mb-2"><span style="font-weight:bold;">Støtte:</span> Normalt ikke nødvendigt, da spinat er en lavtvoksende plante.</div><div class="mb-2"><span style="font-weight:bold;">Gødning:</span> Tilføj kompost eller organisk gødning før plantning for at forbedre jordens næringsindhold.</div>'
+			},
+			{
+				'title': 'Sygdomsresistens',
+				'text': 'Spinat \'Matador\' er normalt modstandsdygtig over for de fleste almindelige plantesygdomme. God havehygiejne og vandingsteknikker kan hjælpe med at forhindre sygdomsangreb.'
+			},
+			{
+				'title': 'Høst',
+				'text': 'Høst de yngre blade, når de når en passende størrelse, normalt efter 4-6 uger. Skær eller pluk bladene ved basis for at fremme ny vækst.'
+			},
+			{
+				'title': 'Anvendelse',
+				'text': 'Spinat \'Matador\' er ideel til frisk forbrug i salater eller let dampning. Kan også bruges i smoothies, omeletter, saucer og supper. Den milde smag gør den velegnet til mange opskrifter, hvor spinat tilføjer ernæringsmæssige fordele og smag.'
+			},
+			{
+				'title': 'Andet info',
+				'text': 'Spinat \'Matador\' er populær blandt både hobbygartnere og kommercielle producenter på grund af dens nemme dyrkning og alsidighed i køkkenet. Den tilbyder en pålidelig kilde til friske blade i køkkenet gennem forskellige årstider.'
+			}
+		]
+	},
+	{
 		'slug': '',
 		'name': '',
 		'images': [
