@@ -437,7 +437,7 @@ var data = [
 	{
 		'slug': 'busk-chiquita-pot',
 		'name': 'Busk Chiquita Pot',
-		'subtitle':'Busktomat'
+		'subtitle':'Busktomat',
 		'images': [
 			{
 				'link': 'https://froesnapperen.dk/cdn/shop/products/Chiquitapottomat.jpg?v=1631558799',
