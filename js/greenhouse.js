@@ -823,7 +823,7 @@ var data = [
 		]
 	},
 	{
-		'slug': '',
+		'slug': 'x',
 		'name': '',
 		'images': [
 			{
